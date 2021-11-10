@@ -1,7 +1,6 @@
 # Viso_rep
 
 Maskrcnn - папка с исходниками нееросети
-androidapp - папка с исходниками андройд приложения
 
 Для запуска нейросети мы использовали Visual Studio Code и среду в Anaconda и репозитории https://github.com/matterport/Mask_RCNN.git и https://github.com/philferriere/cocoapi.git
 Для использования библиотеки tensorflow требуется установить NVIDIA GPU Computing Toolkit версии 9.0, для работы с CUDA ядрами
